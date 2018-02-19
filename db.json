@@ -5,6 +5,12 @@
     {"key":"COMPLETE","name": "Complete"},
     {"key":"READY","name": "Ready"}
   ],
+  "users":[
+    {"id":"001","name": "Luis Cervantes"},
+    {"id":"002","name": "Carlos Daniel"},
+    {"id":"003","name": "Oscar de Leon"},
+    {"id":"004","name": "Steve Jobs"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
