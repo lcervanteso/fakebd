@@ -6,10 +6,10 @@
     {"key":"READY","name": "Ready"}
   ],
   "users":[
-    {"id":"001","name": "Luis Cervantes", type: 1},
-    {"id":"002","name": "Carlos Daniel", type: 2},
-    {"id":"003","name": "Oscar de Leon", type: 3},
-    {"id":"004","name": "Steve Jobs", type: 1}
+    {"id":"001","name": "Luis Cervantes", "type": 1},
+    {"id":"002","name": "Carlos Daniel", "type": 2},
+    {"id":"003","name": "Oscar de Leon", "type": 3},
+    {"id":"004","name": "Steve Jobs", "type": 1}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
