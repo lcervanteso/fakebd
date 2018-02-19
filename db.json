@@ -1,4 +1,10 @@
-{
+{ 
+  "status":[
+    {"key":"DRAFT","name": "Draft"},
+    {"key":"RUNNING","name": "Running"},
+    {"key":"COMPLETE","name": "Complete"},
+    {"key":"READY","name": "Ready"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
