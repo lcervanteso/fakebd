@@ -1,10 +1,5 @@
 { 
-  "status":[
-    {"key":"DRAFT","name": "Draft"},
-    {"key":"RUNNING","name": "Running"},
-    {"key":"COMPLETE","name": "Complete"},
-    {"key":"READY","name": "Ready"}
-  ],
+  "status":["DRAFT","RUNNING","COMPLETE","READY"}],
   "users":[
     {"id":"001","name": "Luis Cervantes"},
     {"id":"002","name": "Carlos Daniel"},
