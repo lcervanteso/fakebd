@@ -9,7 +9,13 @@
     {"id":"001","name": "Luis Cervantes", "type": 1},
     {"id":"002","name": "Carlos Daniel", "type": 2},
     {"id":"003","name": "Oscar de Leon", "type": 3},
-    {"id":"004","name": "Steve Jobs", "type": 1}
+    {"id":"004","name": "Luis Cervantes1", "type": 1},
+    {"id":"005","name": "Carlos Daniel1", "type": 2},
+    {"id":"006","name": "Oscar de Leo2n", "type": 3},
+    {"id":"007","name": "Luis Cervantes3", "type": 1},
+    {"id":"008","name": "Carlos Daniel4", "type": 2},
+    {"id":"009","name": "Oscar de Leon5", "type": 3},
+    {"id":"0010","name": "Steve Jobs6", "type": 1}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
