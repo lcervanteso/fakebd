@@ -1,5 +1,5 @@
 { 
-  "status":["DRAFT","RUNNING","COMPLETE","READY"}],
+  "status":["DRAFT","RUNNING","COMPLETE","READY"],
   "users":[
     {"id":"001","name": "Luis Cervantes"},
     {"id":"002","name": "Carlos Daniel"},
