@@ -1,15 +1,26 @@
 { 
   "status":["DRAFT","RUNNING","COMPLETE","READY"],
-  "users":[
-    {"id":"001","name": "Luis Cervantes"},
-    {"id":"002","name": "Carlos Daniel"},
-    {"id":"003","name": "Oscar de Leon"},
-    {"id":"004","name": "Luis Cervantes1"},
-    {"id":"005","name": "Carlos Daniel1"},
-    {"id":"006","name": "Oscar de Leo2n"},
-    {"id":"007","name": "Luis Cervantes3"},
-    {"id":"008","name": "Carlos Daniel4"},
-    {"id":"009","name": "Oscar de Leon5"},
-    {"id":"0010","name": "Steve Jobs6"}
-  ]
+  "users":{
+    "content": [
+            {
+                "username": "luis.cervantes"
+            },
+            {
+                "username": "aromero"
+            },
+            {
+                "username": "mockuser2"
+            },
+            {
+                "username": "mockuser3"
+            },
+            {
+                "username": "mockuser4"
+            },
+            {
+                "username": "mockuser5"
+            }
+        ]
+
+}
 }
