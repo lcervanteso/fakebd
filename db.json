@@ -1,26 +1,26 @@
-{ 
-  "status":["DRAFT","RUNNING","COMPLETE","READY"],
-  "users":{
-    "content": [
-            {
-                "username": "luis.cervantes"
-            },
-            {
-                "username": "aromero"
-            },
-            {
-                "username": "mockuser2"
-            },
-            {
-                "username": "mockuser3"
-            },
-            {
-                "username": "mockuser4"
-            },
-            {
-                "username": "mockuser5"
-            }
-        ]
-
-}
+{
+    "status": [
+        "DRAFT",
+        "RUNNING",
+        "COMPLETE",
+        "READY"
+    ],
+    "users": {
+        "content": [
+            "luis.cervantes",
+            "aromero",
+            "mockuser2",
+            "mockuser3",
+            "mockuser4",
+            "mockuser5"
+        ],
+        "last": true,
+        "totalPages": 1,
+        "totalElements": 2,
+        "size": 20,
+        "number": 0,
+        "sort": null,
+        "first": true,
+        "numberOfElements": 2
+    }
 }
