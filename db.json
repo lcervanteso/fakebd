@@ -29,8 +29,8 @@
             {
                 "id": 1,
                 "name": "scenario 1",
-                "bestAllocationReach": null,
-                "maxReach": null,
+                "bestAllocationReach": 0,
+                "maxReach": 0,
                 "audience": null,
                 "status": "DRAFT",
                 "lastModifiedDate": "2018-02-20 15:29:42",
