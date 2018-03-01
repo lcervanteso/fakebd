@@ -143,36 +143,6 @@
           "WeightPerc": 1.7683069301720657
         },
         {
-          "ID": 45369,
-          "Name": "Cinemaniacs",
-          "SampleSize": 1926,
-          "WeightPerc": 1.7845596793814589
-        },
-        {
-          "ID": 45338,
-          "Name": "Multimedia Families",
-          "SampleSize": 1938,
-          "WeightPerc": 1.896890810553592
-        },
-        {
-          "ID": 45664,
-          "Name": "Analoggers",
-          "SampleSize": 1732,
-          "WeightPerc": 1.646676503265261
-        },
-        {
-          "ID": 45642,
-          "Name": "Cyber Strivers",
-          "SampleSize": 1440,
-          "WeightPerc": 1.7149742408752804
-        },
-        {
-          "ID": 45741,
-          "Name": "Internet Hinterlands",
-          "SampleSize": 1454,
-          "WeightPerc": 1.6296795739409236
-        },
-        {
           "ID": 45434,
           "Name": "Low-Speed Boomers",
           "SampleSize": 1911,
@@ -189,60 +159,6 @@
           "Name": "Video Vistas",
           "SampleSize": 1645,
           "WeightPerc": 1.8087918391172446
-        },
-        {
-          "ID": 45883,
-          "Name": "Big City, Small Tech",
-          "SampleSize": 1596,
-          "WeightPerc": 1.8657446067048653
-        },
-        {
-          "ID": 45404,
-          "Name": "IM Nation",
-          "SampleSize": 1780,
-          "WeightPerc": 1.7781553296808714
-        },
-        {
-          "ID": 45794,
-          "Name": "Techs and the City",
-          "SampleSize": 1709,
-          "WeightPerc": 2.0108873156722753
-        },
-        {
-          "ID": 45652,
-          "Name": "Plug & Play",
-          "SampleSize": 1860,
-          "WeightPerc": 1.879137878305776
-        },
-        {
-          "ID": 45604,
-          "Name": "Family Dishes",
-          "SampleSize": 2706,
-          "WeightPerc": 3.2786690783313186
-        },
-        {
-          "ID": 45700,
-          "Name": "Digital Dreamers",
-          "SampleSize": 2726,
-          "WeightPerc": 2.9458350145394436
-        },
-        {
-          "ID": 45579,
-          "Name": "Gearing Up",
-          "SampleSize": 1078,
-          "WeightPerc": 1.2488064833733528
-        },
-        {
-          "ID": 45515,
-          "Name": "Broadband Boulevards",
-          "SampleSize": 1928,
-          "WeightPerc": 1.9023414536991052
-        },
-        {
-          "ID": 45276,
-          "Name": "Opting Out",
-          "SampleSize": 1752,
-          "WeightPerc": 1.7855140427592298
         },
         {
           "ID": 45622,
@@ -469,60 +385,6 @@
         "WeightPerc": 1.6594129521698395
       },
       {
-        "ID": 45491,
-        "Name": "Smart Gamers",
-        "SampleSize": 1778,
-        "WeightPerc": 1.7281198903196737
-      },
-      {
-        "ID": 45409,
-        "Name": "WiFi Warriors",
-        "SampleSize": 1667,
-        "WeightPerc": 1.7080221010459518
-      },
-      {
-        "ID": 45499,
-        "Name": "Satellites & Silos",
-        "SampleSize": 2080,
-        "WeightPerc": 2.2706485408517953
-      },
-      {
-        "ID": 45464,
-        "Name": "Cyber Sophisticates",
-        "SampleSize": 1688,
-        "WeightPerc": 1.68118005632629
-      },
-      {
-        "ID": 45800,
-        "Name": "The Pragmatics",
-        "SampleSize": 1701,
-        "WeightPerc": 1.7465490215333639
-      },
-      {
-        "ID": 45577,
-        "Name": "Bundled Burbs",
-        "SampleSize": 1683,
-        "WeightPerc": 1.61879569345135
-      },
-      {
-        "ID": 45455,
-        "Name": "Kids & Keyboards",
-        "SampleSize": 3361,
-        "WeightPerc": 3.166420706818923
-      },
-      {
-        "ID": 45613,
-        "Name": "Time Shifters",
-        "SampleSize": 1625,
-        "WeightPerc": 1.5929940558826787
-      },
-      {
-        "ID": 45444,
-        "Name": "New Technorati",
-        "SampleSize": 2152,
-        "WeightPerc": 2.202971829101158
-      },
-      {
         "ID": 45343,
         "Name": "Gadgets Galore",
         "SampleSize": 1776,
@@ -557,162 +419,6 @@
         "Name": "Internet Hinterlands",
         "SampleSize": 1454,
         "WeightPerc": 1.6296795739409236
-      },
-      {
-        "ID": 45434,
-        "Name": "Low-Speed Boomers",
-        "SampleSize": 1911,
-        "WeightPerc": 1.817673724028397
-      },
-      {
-        "ID": 45740,
-        "Name": "Rural Transmissions",
-        "SampleSize": 1760,
-        "WeightPerc": 2.075352821260544
-      },
-      {
-        "ID": 45290,
-        "Name": "Video Vistas",
-        "SampleSize": 1645,
-        "WeightPerc": 1.8087918391172446
-      },
-      {
-        "ID": 45883,
-        "Name": "Big City, Small Tech",
-        "SampleSize": 1596,
-        "WeightPerc": 1.8657446067048653
-      },
-      {
-        "ID": 45404,
-        "Name": "IM Nation",
-        "SampleSize": 1780,
-        "WeightPerc": 1.7781553296808714
-      },
-      {
-        "ID": 45794,
-        "Name": "Techs and the City",
-        "SampleSize": 1709,
-        "WeightPerc": 2.0108873156722753
-      },
-      {
-        "ID": 45652,
-        "Name": "Plug & Play",
-        "SampleSize": 1860,
-        "WeightPerc": 1.879137878305776
-      },
-      {
-        "ID": 45604,
-        "Name": "Family Dishes",
-        "SampleSize": 2706,
-        "WeightPerc": 3.2786690783313186
-      },
-      {
-        "ID": 45700,
-        "Name": "Digital Dreamers",
-        "SampleSize": 2726,
-        "WeightPerc": 2.9458350145394436
-      },
-      {
-        "ID": 45579,
-        "Name": "Gearing Up",
-        "SampleSize": 1078,
-        "WeightPerc": 1.2488064833733528
-      },
-      {
-        "ID": 45515,
-        "Name": "Broadband Boulevards",
-        "SampleSize": 1928,
-        "WeightPerc": 1.9023414536991052
-      },
-      {
-        "ID": 45276,
-        "Name": "Opting Out",
-        "SampleSize": 1752,
-        "WeightPerc": 1.7855140427592298
-      },
-      {
-        "ID": 45622,
-        "Name": "Techtown Lites",
-        "SampleSize": 1717,
-        "WeightPerc": 1.8383780890621821
-      },
-      {
-        "ID": 45681,
-        "Name": "New Kids on the Grid",
-        "SampleSize": 952,
-        "WeightPerc": 1.0198528699426004
-      },
-      {
-        "ID": 45314,
-        "Name": "Video Homebodies",
-        "SampleSize": 1357,
-        "WeightPerc": 1.385343829784766
-      },
-      {
-        "ID": 45348,
-        "Name": "Low-Tech Country",
-        "SampleSize": 1234,
-        "WeightPerc": 1.4396187312394402
-      },
-      {
-        "ID": 45463,
-        "Name": "Antenna Land",
-        "SampleSize": 3300,
-        "WeightPerc": 3.3598966991299863
-      },
-      {
-        "ID": 45770,
-        "Name": "Tech Skeptics",
-        "SampleSize": 2007,
-        "WeightPerc": 1.9617070594617023
-      },
-      {
-        "ID": 45776,
-        "Name": "Bucolic Basics",
-        "SampleSize": 1584,
-        "WeightPerc": 1.77632542164889
-      },
-      {
-        "ID": 45875,
-        "Name": "Leisurely Adopters",
-        "SampleSize": 1589,
-        "WeightPerc": 1.7525021340415712
-      },
-      {
-        "ID": 45378,
-        "Name": "Landline Living",
-        "SampleSize": 1453,
-        "WeightPerc": 1.4227259083124713
-      },
-      {
-        "ID": 45337,
-        "Name": "Old-Time Media",
-        "SampleSize": 1665,
-        "WeightPerc": 1.6982265757642008
-      },
-      {
-        "ID": 45518,
-        "Name": "Discounts & Deals",
-        "SampleSize": 1176,
-        "WeightPerc": 1.1284319014619353
-      },
-      {
-        "ID": 45393,
-        "Name": "Dial-Up Duos",
-        "SampleSize": 2175,
-        "WeightPerc": 2.134178518766756
-      },
-      {
-        "ID": 45256,
-        "Name": "Satellite Seniors",
-        "SampleSize": 926,
-        "WeightPerc": 1.0381700128865656
-      },
-      {
-        "ID": 45834,
-        "Name": "Early-Bird TV",
-        "SampleSize": 1540,
-        "WeightPerc": 1.5539768172524544
       },
       {
         "ID": 45745,
@@ -877,36 +583,6 @@
         "WeightPerc": 10.41983098526718
       },
       {
-        "ID": 45611,
-        "Name": "$20,000 to $29,999",
-        "SampleSize": 7610,
-        "WeightPerc": 8.318327753586214
-      },
-      {
-        "ID": 45342,
-        "Name": "$30,000 to $39,999",
-        "SampleSize": 9591,
-        "WeightPerc": 10.242779829711951
-      },
-      {
-        "ID": 45543,
-        "Name": "$40,000 to $49,999",
-        "SampleSize": 8582,
-        "WeightPerc": 8.807041278551093
-      },
-      {
-        "ID": 45305,
-        "Name": "$50,000 to $69,999",
-        "SampleSize": 16536,
-        "WeightPerc": 17.113280538822657
-      },
-      {
-        "ID": 45438,
-        "Name": "$70,000 to $99,999",
-        "SampleSize": 19312,
-        "WeightPerc": 19.575035255697152
-      },
-      {
         "ID": 45513,
         "Name": "$100,000 to $124,999",
         "SampleSize": 9968,
@@ -1025,30 +701,6 @@
         "Name": "Chinese",
         "SampleSize": 776,
         "WeightPerc": 1.1433746178034938
-      },
-      {
-        "ID": 45442,
-        "Name": "Filipino",
-        "SampleSize": 955,
-        "WeightPerc": 1.21713843389239
-      },
-      {
-        "ID": 45744,
-        "Name": "Hawaiian",
-        "SampleSize": 206,
-        "WeightPerc": 0.2246044619469886
-      },
-      {
-        "ID": 45760,
-        "Name": "Japanese",
-        "SampleSize": 347,
-        "WeightPerc": 0.5636527252688628
-      },
-      {
-        "ID": 45685,
-        "Name": "Korean",
-        "SampleSize": 239,
-        "WeightPerc": 0.3590761009784369
       },
       {
         "ID": 45876,
