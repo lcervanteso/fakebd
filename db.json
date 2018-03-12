@@ -1,1 +1,203 @@
-{"trin":[{"ID":2131,"Name":"Cable Status","CriteriaValues":[{"ID":45302,"Name":"Broadcast Only","SampleSize":12821,"WeightPerc":12.890022261264711},{"ID":45468,"Name":"Cable Plus","SampleSize":78618,"WeightPerc":80.83751048211025},{"ID":45886,"Name":"N/A","SampleSize":5247,"WeightPerc":6.272467256625032}]},{"ID":2132,"Name":"Connexion Segment","CriteriaValues":[{"ID":45781,"Name":"Technovators","SampleSize":2402,"WeightPerc":2.317030075553297},{"ID":45366,"Name":"Plugged-In Families","SampleSize":3033,"WeightPerc":2.919263909182019},{"ID":45352,"Name":"Tech Nests","SampleSize":2492,"WeightPerc":2.4287408376887436},{"ID":45401,"Name":"Connected Country","SampleSize":1748,"WeightPerc":1.8556653340182985},{"ID":45634,"Name":"You & I Tunes","SampleSize":1825,"WeightPerc":1.8347215571117008},{"ID":45674,"Name":"High-Tech Society","SampleSize":1612,"WeightPerc":1.5747905432651785},{"ID":45506,"Name":"Generation WiFi","SampleSize":936,"WeightPerc":1.1023205719919433},{"ID":45640,"Name":"Calling Circles","SampleSize":1454,"WeightPerc":1.5113391719200469},{"ID":45836,"Name":"Dish Country","SampleSize":1555,"WeightPerc":1.6594129521698395},{"ID":45491,"Name":"Smart Gamers","SampleSize":1778,"WeightPerc":1.7281198903196737},{"ID":45409,"Name":"WiFi Warriors","SampleSize":1667,"WeightPerc":1.7080221010459518},{"ID":45499,"Name":"Satellites & Silos","SampleSize":2080,"WeightPerc":2.2706485408517953},{"ID":45464,"Name":"Cyber Sophisticates","SampleSize":1688,"WeightPerc":1.68118005632629},{"ID":45800,"Name":"The Pragmatics","SampleSize":1701,"WeightPerc":1.7465490215333639},{"ID":45577,"Name":"Bundled Burbs","SampleSize":1683,"WeightPerc":1.61879569345135},{"ID":45455,"Name":"Kids & Keyboards","SampleSize":3361,"WeightPerc":3.166420706818923},{"ID":45613,"Name":"Time Shifters","SampleSize":1625,"WeightPerc":1.5929940558826787},{"ID":45444,"Name":"New Technorati","SampleSize":2152,"WeightPerc":2.202971829101158},{"ID":45343,"Name":"Gadgets Galore","SampleSize":1776,"WeightPerc":1.7683069301720657},{"ID":45369,"Name":"Cinemaniacs","SampleSize":1926,"WeightPerc":1.7845596793814589},{"ID":45338,"Name":"Multimedia Families","SampleSize":1938,"WeightPerc":1.896890810553592},{"ID":45664,"Name":"Analoggers","SampleSize":1732,"WeightPerc":1.646676503265261},{"ID":45642,"Name":"Cyber Strivers","SampleSize":1440,"WeightPerc":1.7149742408752804},{"ID":45741,"Name":"Internet Hinterlands","SampleSize":1454,"WeightPerc":1.6296795739409236},{"ID":45434,"Name":"Low-Speed Boomers","SampleSize":1911,"WeightPerc":1.817673724028397},{"ID":45740,"Name":"Rural Transmissions","SampleSize":1760,"WeightPerc":2.075352821260544},{"ID":45290,"Name":"Video Vistas","SampleSize":1645,"WeightPerc":1.8087918391172446},{"ID":45883,"Name":"Big City, Small Tech","SampleSize":1596,"WeightPerc":1.8657446067048653},{"ID":45404,"Name":"IM Nation","SampleSize":1780,"WeightPerc":1.7781553296808714},{"ID":45794,"Name":"Techs and the City","SampleSize":1709,"WeightPerc":2.0108873156722753},{"ID":45652,"Name":"Plug & Play","SampleSize":1860,"WeightPerc":1.879137878305776},{"ID":45604,"Name":"Family Dishes","SampleSize":2706,"WeightPerc":3.2786690783313186},{"ID":45700,"Name":"Digital Dreamers","SampleSize":2726,"WeightPerc":2.9458350145394436},{"ID":45579,"Name":"Gearing Up","SampleSize":1078,"WeightPerc":1.2488064833733528},{"ID":45515,"Name":"Broadband Boulevards","SampleSize":1928,"WeightPerc":1.9023414536991052},{"ID":45276,"Name":"Opting Out","SampleSize":1752,"WeightPerc":1.7855140427592298},{"ID":45622,"Name":"Techtown Lites","SampleSize":1717,"WeightPerc":1.8383780890621821},{"ID":45681,"Name":"New Kids on the Grid","SampleSize":952,"WeightPerc":1.0198528699426004},{"ID":45314,"Name":"Video Homebodies","SampleSize":1357,"WeightPerc":1.385343829784766},{"ID":45348,"Name":"Low-Tech Country","SampleSize":1234,"WeightPerc":1.4396187312394402},{"ID":45463,"Name":"Antenna Land","SampleSize":3300,"WeightPerc":3.3598966991299863},{"ID":45770,"Name":"Tech Skeptics","SampleSize":2007,"WeightPerc":1.9617070594617023},{"ID":45776,"Name":"Bucolic Basics","SampleSize":1584,"WeightPerc":1.77632542164889},{"ID":45875,"Name":"Leisurely Adopters","SampleSize":1589,"WeightPerc":1.7525021340415712},{"ID":45378,"Name":"Landline Living","SampleSize":1453,"WeightPerc":1.4227259083124713},{"ID":45337,"Name":"Old-Time Media","SampleSize":1665,"WeightPerc":1.6982265757642008},{"ID":45518,"Name":"Discounts & Deals","SampleSize":1176,"WeightPerc":1.1284319014619353},{"ID":45393,"Name":"Dial-Up Duos","SampleSize":2175,"WeightPerc":2.134178518766756},{"ID":45256,"Name":"Satellite Seniors","SampleSize":926,"WeightPerc":1.0381700128865656},{"ID":45834,"Name":"Early-Bird TV","SampleSize":1540,"WeightPerc":1.5539768172524544},{"ID":45745,"Name":"Tech-Free Frontier","SampleSize":1744,"WeightPerc":2.0887194915422533},{"ID":45825,"Name":"The Unconnected","SampleSize":2637,"WeightPerc":2.5486812597978856},{"ID":45623,"Name":"Last to Adopt","SampleSize":2102,"WeightPerc":2.0816363155850066},{"ID":45887,"Name":"99","SampleSize":19,"WeightPerc":0.01464419042607553}]},{"ID":2133,"Name":"County Size","CriteriaValues":[{"ID":45311,"Name":"A","SampleSize":39801,"WeightPerc":41.65495187809862},{"ID":45680,"Name":"B","SampleSize":35818,"WeightPerc":30.162977054388435},{"ID":45318,"Name":"C","SampleSize":9993,"WeightPerc":14.735439519163487},{"ID":45874,"Name":"D","SampleSize":11074,"WeightPerc":13.446631548349455}]},{"ID":2134,"Name":"Education","CriteriaValues":[{"ID":45645,"Name":"< 9 Years Grade School","SampleSize":1984,"WeightPerc":2.3500856629802613},{"ID":45330,"Name":"1-3 Years College","SampleSize":25111,"WeightPerc":26.38785445243866},{"ID":45394,"Name":"1-3 Years High School","SampleSize":4339,"WeightPerc":4.668103599868842},{"ID":45421,"Name":"4 Years HS/Graduate","SampleSize":19183,"WeightPerc":20.652148286249254},{"ID":45608,"Name":"4+ Years College","SampleSize":25171,"WeightPerc":24.864477034140233},{"ID":45303,"Name":"N/A","SampleSize":20898,"WeightPerc":21.077330964322748}]},{"ID":2135,"Name":"Gender","CriteriaValues":[{"ID":45548,"Name":"F","SampleSize":50307,"WeightPerc":51.1498346332276},{"ID":45525,"Name":"M","SampleSize":46379,"WeightPerc":48.8501653667724}]},{"ID":2136,"Name":"Has Internet","CriteriaValues":[{"ID":45519,"Name":"No","SampleSize":15169,"WeightPerc":16.69715708778833},{"ID":45487,"Name":"Yes","SampleSize":81517,"WeightPerc":83.30284291221167}]},{"ID":2137,"Name":"Head of Household Origin","CriteriaValues":[{"ID":45313,"Name":"Non-Spanish","SampleSize":81430,"WeightPerc":82.54353190122318},{"ID":45320,"Name":"Spanish","SampleSize":15256,"WeightPerc":17.45646809877682}]},{"ID":2138,"Name":"Household Income Breaks","CriteriaValues":[{"ID":45782,"Name":"Up to $19,999","SampleSize":9314,"WeightPerc":10.41983098526718},{"ID":45611,"Name":"$20,000 to $29,999","SampleSize":7610,"WeightPerc":8.318327753586214},{"ID":45342,"Name":"$30,000 to $39,999","SampleSize":9591,"WeightPerc":10.242779829711951},{"ID":45543,"Name":"$40,000 to $49,999","SampleSize":8582,"WeightPerc":8.807041278551093},{"ID":45305,"Name":"$50,000 to $69,999","SampleSize":16536,"WeightPerc":17.113280538822657},{"ID":45438,"Name":"$70,000 to $99,999","SampleSize":19312,"WeightPerc":19.575035255697152},{"ID":45513,"Name":"$100,000 to $124,999","SampleSize":9968,"WeightPerc":9.653318570236106},{"ID":45845,"Name":"$125,000 to $149,999","SampleSize":5091,"WeightPerc":5.1500081723521935},{"ID":45790,"Name":"$150,000 to $199,999","SampleSize":4929,"WeightPerc":4.86307222175732},{"ID":45400,"Name":"$200,000 or more","SampleSize":5753,"WeightPerc":5.857305394018132}]},{"ID":2139,"Name":"Household Income High/Medium/Low","CriteriaValues":[{"ID":45823,"Name":"Low Salary (< $30,000)","SampleSize":16924,"WeightPerc":18.738158738853393},{"ID":45526,"Name":"Medium Low Salary ($30,000 - $49,999)","SampleSize":18173,"WeightPerc":19.049821108263043},{"ID":45619,"Name":"Medium High Salary ($50,000 - $99,999)","SampleSize":35848,"WeightPerc":36.68831579451981},{"ID":45419,"Name":"High Salary ($100,000+)","SampleSize":25741,"WeightPerc":25.52370435836375}]},{"ID":2140,"Name":"Household Language Spoken","CriteriaValues":[{"ID":45405,"Name":"Mostly English","SampleSize":4183,"WeightPerc":4.7712260768383965},{"ID":45869,"Name":"Mostly Spanish","SampleSize":3337,"WeightPerc":4.289151058865347},{"ID":45713,"Name":"Only English","SampleSize":82581,"WeightPerc":83.05756824001111},{"ID":45716,"Name":"Only Spanish","SampleSize":1307,"WeightPerc":1.8274705629555406},{"ID":45802,"Name":"Spanish English Equally","SampleSize":5278,"WeightPerc":6.054584061329611}]},{"ID":2141,"Name":"Household Race","CriteriaValues":[{"ID":45354,"Name":"American Indian","SampleSize":1553,"WeightPerc":1.538101412682104},{"ID":45447,"Name":"Asian Indian","SampleSize":1333,"WeightPerc":2.168291919146164},{"ID":45749,"Name":"Black","SampleSize":13641,"WeightPerc":13.370352101333607},{"ID":45817,"Name":"Chinese","SampleSize":776,"WeightPerc":1.1433746178034938},{"ID":45442,"Name":"Filipino","SampleSize":955,"WeightPerc":1.21713843389239},{"ID":45744,"Name":"Hawaiian","SampleSize":206,"WeightPerc":0.2246044619469886},{"ID":45760,"Name":"Japanese","SampleSize":347,"WeightPerc":0.5636527252688628},{"ID":45685,"Name":"Korean","SampleSize":239,"WeightPerc":0.3590761009784369},{"ID":45876,"Name":"Other","SampleSize":5477,"WeightPerc":6.177841766466579},{"ID":45306,"Name":"Vietnamese","SampleSize":279,"WeightPerc":0.3815591418738896},{"ID":45435,"Name":"White","SampleSize":71880,"WeightPerc":72.85600731860748}]},{"ID":2142,"Name":"Household Size","CriteriaValues":[{"ID":45383,"Name":"1 Person","SampleSize":9773,"WeightPerc":10.010932255481158},{"ID":45768,"Name":"2 Persons","SampleSize":25813,"WeightPerc":25.579107352799372},{"ID":45570,"Name":"3 Persons","SampleSize":17717,"WeightPerc":18.766623792455693},{"ID":45326,"Name":"4+ Persons","SampleSize":43383,"WeightPerc":45.643336599263776}]}]}
+{"trin":
+{
+   "content":[
+      {
+         "id":104,
+         "name":"2A3j)dcmzC0jGzXqt",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 17:11:58",
+         "createdBy":"cm.admin1",
+         "createdDate":"2018-03-06 17:11:58",
+         "lastModifiedBy":"cm.admin1"
+      },
+      {
+         "id":103,
+         "name":"C!gi3EQ4fIkF",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 17:10:20",
+         "createdBy":"cm.admin1",
+         "createdDate":"2018-03-06 17:10:20",
+         "lastModifiedBy":"cm.admin1"
+      },
+      {
+         "id":102,
+         "name":"f5@bd#imT6DvvIijbQ",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 17:07:41",
+         "createdBy":"cm.admin1",
+         "createdDate":"2018-03-06 17:07:41",
+         "lastModifiedBy":"cm.admin1"
+      },
+      {
+         "id":101,
+         "name":"7H6YDSjw@bB8FLDxvwk",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 17:05:33",
+         "createdBy":"cm.admin1",
+         "createdDate":"2018-03-06 17:05:33",
+         "lastModifiedBy":"cm.admin1"
+      },
+      {
+         "id":100,
+         "name":"asdaswxssadws",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 17:05:24",
+         "createdBy":"Chris.Quon",
+         "createdDate":"2018-03-06 17:05:24",
+         "lastModifiedBy":"Chris.Quon"
+      },
+      {
+         "id":99,
+         "name":"asdaswxs",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 16:58:16",
+         "createdBy":"Chris.Quon",
+         "createdDate":"2018-03-06 16:58:16",
+         "lastModifiedBy":"Chris.Quon"
+      },
+      {
+         "id":98,
+         "name":"sdfsdf",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-03-06 16:54:02",
+         "createdBy":"Chris.Quon",
+         "createdDate":"2018-03-06 16:54:02",
+         "lastModifiedBy":"Chris.Quon"
+      },
+      {
+         "id":97,
+         "name":"sdsdwsd",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-28 19:39:13",
+         "createdBy":"Chris.Quon",
+         "createdDate":"2018-02-28 19:39:13",
+         "lastModifiedBy":"Chris.Quon"
+      },
+      {
+         "id":96,
+         "name":"ScenarioProjectTest",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 22:34:10",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 22:34:10",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":95,
+         "name":"DannyTest10",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 22:31:28",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 22:31:28",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":94,
+         "name":"TestScenario123",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 21:06:44",
+         "createdBy":"luis.cervantes",
+         "createdDate":"2018-02-23 21:06:44",
+         "lastModifiedBy":"luis.cervantes"
+      },
+      {
+         "id":93,
+         "name":"TestScenarioa",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:53:00",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:53:00",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":92,
+         "name":"MyScenario",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:51:34",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:51:34",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":91,
+         "name":"DannyTest7",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:35:27",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:35:27",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":90,
+         "name":"dannyTest6",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:26:07",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:26:07",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":89,
+         "name":"DannyTest5",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:24:14",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:24:14",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":88,
+         "name":"dannyTest4",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:21:29",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:21:29",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":87,
+         "name":"dannyTest3",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:18:09",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:18:09",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":86,
+         "name":"DannyTest2",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 20:17:02",
+         "createdBy":"danny_admin",
+         "createdDate":"2018-02-23 20:17:02",
+         "lastModifiedBy":"danny_admin"
+      },
+      {
+         "id":85,
+         "name":"sdfecsdfs",
+         "status":"DRAFT",
+         "lastModifiedDate":"2018-02-23 16:17:19",
+         "createdBy":"Chris.Quon",
+         "createdDate":"2018-02-23 16:17:19",
+         "lastModifiedBy":"Chris.Quon"
+      }
+   ],
+   "last":false,
+   "totalElements":104,
+   "totalPages":6,
+   "sort":[
+      {
+         "direction":"DESC",
+         "property":"lastModifiedDate",
+         "ignoreCase":false,
+         "nullHandling":"NATIVE",
+         "descending":true,
+         "ascending":false
+      }
+   ],
+   "numberOfElements":20,
+   "first":true,
+   "size":20,
+   "number":0
+}
+}
