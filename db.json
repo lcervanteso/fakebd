@@ -2,19 +2,19 @@
 {
    "content":[
     {
-      name: 'TV',
-      value: 'TV',
-      icon: ''
+      "name": "TV",
+      "value": "TV",
+      "icon": ""
     },
     {
-      name: 'Online',
-      value: 'Online',
-      icon: ''
+      "name": "Online",
+      "value": "Online",
+      "icon": ""
     },
     {
-      name: 'Mobile',
-      value: 'Mobile',
-      icon: ''
+      "name": "Mobile",
+      "value": "Mobile",
+      "icon": ""
     }
   ],
    "numberOfElements":20,
