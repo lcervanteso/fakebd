@@ -1,46 +1,22 @@
-{"brand":
+{"types":
 {
    "content":[
-      {
-         "id":104,
-         "name":"2A3j)dcmzC0jGzXqt",
-         "status":"DRAFT",
-         "lastModifiedDate":"2018-03-06 17:11:58",
-         "createdBy":"cm.admin1",
-         "createdDate":"2018-03-06 17:11:58",
-         "lastModifiedBy":"cm.admin1",
-         "brand":{
-            "name": "BMW",
-            "id": "BMW"
-         }
-      },
-      {
-         "id":103,
-         "name":"C!gi3EQ4fIkF",
-         "status":"DRAFT",
-         "lastModifiedDate":"2018-03-06 17:10:20",
-         "createdBy":"cm.admin1",
-         "createdDate":"2018-03-06 17:10:20",
-         "lastModifiedBy":"cm.admin1",
-         "brand":{
-            "name": "BMW",
-            "id": "BMW"
-         }
-      }
-   ],
-   "last":false,
-   "totalElements":104,
-   "totalPages":6,
-   "sort":[
-      {
-         "direction":"DESC",
-         "property":"lastModifiedDate",
-         "ignoreCase":false,
-         "nullHandling":"NATIVE",
-         "descending":true,
-         "ascending":false
-      }
-   ],
+    {
+      name: 'TV',
+      value: 'TV',
+      icon: ''
+    },
+    {
+      name: 'Online',
+      value: 'Online',
+      icon: ''
+    },
+    {
+      name: 'Mobile',
+      value: 'Mobile',
+      icon: ''
+    }
+  ],
    "numberOfElements":20,
    "first":true,
    "size":20,
