@@ -1,20 +1,17 @@
-{"types":
+{"channels":
 {
    "content":[
     {
       "name": "TV",
-      "value": "TV",
-      "icon": ""
+      "id": 1,
     },
     {
       "name": "Online",
-      "value": "Online",
-      "icon": ""
+      "id": 2,
     },
     {
       "name": "Mobile",
-      "value": "Mobile",
-      "icon": ""
+      "id": 3,
     }
   ],
    "numberOfElements":20,
