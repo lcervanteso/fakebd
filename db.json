@@ -1,22 +1,22 @@
-{"channels":
 {
-   "content":[
-    {
-      "name": "TV",
-      "id": 1,
-    },
-    {
-      "name": "Online",
-      "id": 2,
-    },
-    {
-      "name": "Mobile",
-      "id": 3,
-    }
-  ],
-   "numberOfElements":20,
-   "first":true,
-   "size":20,
-   "number":0
-}
+  "channels": {
+    "content": [
+      {
+        "name": "TV",
+        "id": 1
+      },
+      {
+        "name": "Online",
+        "id": 2
+      },
+      {
+        "name": "Mobile",
+        "id": 3
+      }
+    ],
+    "numberOfElements": 20,
+    "first": true,
+    "size": 20,
+    "number": 0
+  }
 }
