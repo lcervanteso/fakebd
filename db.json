@@ -1,2 +1,128 @@
 {
-  "dura":[{"ID":2131,"Name":"Cable Status","CriteriaValues":[{"ID":45302,"Name":"Broadcast Only","SampleSize":12821,"WeightPerc":12.890022261264711},{"ID":45468,"Name":"Cable Plus","SampleSize":78618,"WeightPerc":80.83751048211025},{"ID":45886,"Name":"N/A","SampleSize":5247,"WeightPerc":6.272467256625032}]},{"ID":2132,"Name":"Connexion Segment","CriteriaValues":[{"ID":45781,"Name":"Technovators","SampleSize":2402,"WeightPerc":2.317030075553297},{"ID":45434,"Name":"Low-Speed Boomers","SampleSize":1911,"WeightPerc":1.817673724028397},{"ID":45740,"Name":"Rural Transmissions","SampleSize":1760,"WeightPerc":2.075352821260544},{"ID":45290,"Name":"Video Vistas","SampleSize":1645,"WeightPerc":1.8087918391172446},{"ID":45883,"Name":"Big City, Small Tech","SampleSize":1596,"WeightPerc":1.8657446067048653},{"ID":45404,"Name":"IM Nation","SampleSize":1780,"WeightPerc":1.7781553296808714},{"ID":45794,"Name":"Techs and the City","SampleSize":1709,"WeightPerc":2.0108873156722753},{"ID":45652,"Name":"Plug & Play","SampleSize":1860,"WeightPerc":1.879137878305776},{"ID":45604,"Name":"Family Dishes","SampleSize":2706,"WeightPerc":3.2786690783313186},{"ID":45700,"Name":"Digital Dreamers","SampleSize":2726,"WeightPerc":2.9458350145394436},{"ID":45579,"Name":"Gearing Up","SampleSize":1078,"WeightPerc":1.2488064833733528},{"ID":45515,"Name":"Broadband Boulevards","SampleSize":1928,"WeightPerc":1.9023414536991052},{"ID":45276,"Name":"Opting Out","SampleSize":1752,"WeightPerc":1.7855140427592298},{"ID":45622,"Name":"Techtown Lites","SampleSize":1717,"WeightPerc":1.8383780890621821},{"ID":45681,"Name":"New Kids on the Grid","SampleSize":952,"WeightPerc":1.0198528699426004},{"ID":45314,"Name":"Video Homebodies","SampleSize":1357,"WeightPerc":1.385343829784766},{"ID":45348,"Name":"Low-Tech Country","SampleSize":1234,"WeightPerc":1.4396187312394402},{"ID":45463,"Name":"Antenna Land","SampleSize":3300,"WeightPerc":3.3598966991299863},{"ID":45770,"Name":"Tech Skeptics","SampleSize":2007,"WeightPerc":1.9617070594617023},{"ID":45776,"Name":"Bucolic Basics","SampleSize":1584,"WeightPerc":1.77632542164889},{"ID":45875,"Name":"Leisurely Adopters","SampleSize":1589,"WeightPerc":1.7525021340415712},{"ID":45378,"Name":"Landline Living","SampleSize":1453,"WeightPerc":1.4227259083124713},{"ID":45337,"Name":"Old-Time Media","SampleSize":1665,"WeightPerc":1.6982265757642008},{"ID":45518,"Name":"Discounts & Deals","SampleSize":1176,"WeightPerc":1.1284319014619353},{"ID":45393,"Name":"Dial-Up Duos","SampleSize":2175,"WeightPerc":2.134178518766756},{"ID":45256,"Name":"Satellite Seniors","SampleSize":926,"WeightPerc":1.0381700128865656},{"ID":45834,"Name":"Early-Bird TV","SampleSize":1540,"WeightPerc":1.5539768172524544},{"ID":45745,"Name":"Tech-Free Frontier","SampleSize":1744,"WeightPerc":2.0887194915422533},{"ID":45825,"Name":"The Unconnected","SampleSize":2637,"WeightPerc":2.5486812597978856},{"ID":45623,"Name":"Last to Adopt","SampleSize":2102,"WeightPerc":2.0816363155850066},{"ID":45887,"Name":"99","SampleSize":19,"WeightPerc":0.01464419042607553}]},{"ID":2133,"Name":"County Size","CriteriaValues":[{"ID":45311,"Name":"A","SampleSize":39801,"WeightPerc":41.65495187809862},{"ID":45680,"Name":"B","SampleSize":35818,"WeightPerc":30.162977054388435},{"ID":45318,"Name":"C","SampleSize":9993,"WeightPerc":14.735439519163487},{"ID":45874,"Name":"D","SampleSize":11074,"WeightPerc":13.446631548349455}]},{"ID":2134,"Name":"Education","CriteriaValues":[{"ID":45645,"Name":"< 9 Years Grade School","SampleSize":1984,"WeightPerc":2.3500856629802613},{"ID":45330,"Name":"1-3 Years College","SampleSize":25111,"WeightPerc":26.38785445243866},{"ID":45394,"Name":"1-3 Years High School","SampleSize":4339,"WeightPerc":4.668103599868842},{"ID":45421,"Name":"4 Years HS/Graduate","SampleSize":19183,"WeightPerc":20.652148286249254},{"ID":45608,"Name":"4+ Years College","SampleSize":25171,"WeightPerc":24.864477034140233},{"ID":45303,"Name":"N/A","SampleSize":20898,"WeightPerc":21.077330964322748}]},{"ID":2135,"Name":"Gender","CriteriaValues":[{"ID":45548,"Name":"F","SampleSize":50307,"WeightPerc":51.1498346332276},{"ID":45525,"Name":"M","SampleSize":46379,"WeightPerc":48.8501653667724}]},{"ID":2136,"Name":"Has Internet","CriteriaValues":[{"ID":45519,"Name":"No","SampleSize":15169,"WeightPerc":16.69715708778833},{"ID":45487,"Name":"Yes","SampleSize":81517,"WeightPerc":83.30284291221167}]},{"ID":2137,"Name":"Head of Household Origin","CriteriaValues":[{"ID":45313,"Name":"Non-Spanish","SampleSize":81430,"WeightPerc":82.54353190122318},{"ID":45320,"Name":"Spanish","SampleSize":15256,"WeightPerc":17.45646809877682}]},{"ID":2142,"Name":"Household Size","CriteriaValues":[{"ID":45383,"Name":"1 Person","SampleSize":9773,"WeightPerc":10.010932255481158},{"ID":45768,"Name":"2 Persons","SampleSize":25813,"WeightPerc":25.579107352799372},{"ID":45570,"Name":"3 Persons","SampleSize":17717,"WeightPerc":18.766623792455693},{"ID":45326,"Name":"4+ Persons","SampleSize":43383,"WeightPerc":45.643336599263776}]},{"ID":2143,"Name":"Internet Usage Hours at Home","CriteriaValues":[{"ID":45484,"Name":"None","SampleSize":13160,"WeightPerc":14.029354792194978},{"ID":45553,"Name":"1-16","SampleSize":49732,"WeightPerc":50.57837622703551},{"ID":45576,"Name":"17-39","SampleSize":25381,"WeightPerc":26.25250891080974},{"ID":45431,"Name":"40-99","SampleSize":8033,"WeightPerc":8.70789750506457},{"ID":45657,"Name":"100 or more","SampleSize":380,"WeightPerc":0.4318625648951908}]},{"ID":2145,"Name":"Kids Under 12","CriteriaValues":[{"ID":45581,"Name":"No","SampleSize":48217,"WeightPerc":50.19735502294993},{"ID":45812,"Name":"Yes","SampleSize":48469,"WeightPerc":49.80264497705008}]},{"ID":2146,"Name":"Kids Under 18","CriteriaValues":[{"ID":45632,"Name":"No","SampleSize":48217,"WeightPerc":50.19735502294993},{"ID":45594,"Name":"Yes","SampleSize":48469,"WeightPerc":49.80264497705008}]},{"ID":2147,"Name":"Kids Under 3","CriteriaValues":[{"ID":45533,"Name":"No","SampleSize":86199,"WeightPerc":88.58323695801278},{"ID":45710,"Name":"Yes","SampleSize":10487,"WeightPerc":11.416763041987224}]},{"ID":2148,"Name":"Kids Under 6","CriteriaValues":[{"ID":45682,"Name":"No","SampleSize":75932,"WeightPerc":77.90000759188513},{"ID":45656,"Name":"Yes","SampleSize":20754,"WeightPerc":22.099992408114865}]},{"ID":2150,"Name":"Marital Status","CriteriaValues":[{"ID":45403,"Name":"No","SampleSize":69415,"WeightPerc":72.1722772236973},{"ID":45443,"Name":"Yes","SampleSize":27271,"WeightPerc":27.827722776302704}]},{"ID":2152,"Name":"Owns PC","CriteriaValues":[{"ID":45626,"Name":"No","SampleSize":11564,"WeightPerc":12.578508005373084}]},{"ID":2155,"Name":"Relation to Head of Household","CriteriaValues":[{"ID":45720,"Name":"Daughter","SampleSize":12920,"WeightPerc":13.241202696610538},{"ID":45508,"Name":"Other Relative","SampleSize":6325,"WeightPerc":6.90088138610686},{"ID":45894,"Name":"Non-Relative HH Member","SampleSize":1012,"WeightPerc":1.1277199056591112},{"ID":45896,"Name":"Spouse - Female","SampleSize":112,"WeightPerc":0.11171174736949162}]},{"ID":2157,"Name":"Respondent Hispanic Flag","CriteriaValues":[{"ID":45612,"Name":"Non-Spanish","SampleSize":80743,"WeightPerc":81.62057154497543},{"ID":45538,"Name":"Spanish","SampleSize":15926,"WeightPerc":18.363444017886636},{"ID":45563,"Name":"Unknown","SampleSize":17,"WeightPerc":0.01598443713794147}]},{"ID":2159,"Name":"Teens in HH","CriteriaValues":[{"ID":45767,"Name":"No","SampleSize":71784,"WeightPerc":74.21177672125584},{"ID":45789,"Name":"Yes","SampleSize":24902,"WeightPerc":25.788223278744155}]}]}
+  "tv": [
+  {
+    "ID": 401824,
+    "Name": "AIRWOLF",
+    "Platform": "CABLE",
+    "Channel": "EL REY",
+    "Telecasts": [
+      {
+        "ID": 50517041,
+        "Name": "217 NATURAL BORN",
+        "BroadcastDateTime": "2017-12-04T06:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50517042,
+        "Name": "218 OUT OF THE SKY",
+        "BroadcastDateTime": "2017-12-04T07:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50523304,
+        "Name": "219 DAMBREAKERS",
+        "BroadcastDateTime": "2017-12-05T06:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50523305,
+        "Name": "220 SEVERANCE PAY",
+        "BroadcastDateTime": "2017-12-05T07:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50814025,
+        "Name": "301 THE HORN OF PLENTY",
+        "BroadcastDateTime": "2017-12-11T06:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50814026,
+        "Name": "302 AIRWOLF II",
+        "BroadcastDateTime": "2017-12-11T07:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50820204,
+        "Name": "303 AND A CHILD SHALL LEAD",
+        "BroadcastDateTime": "2017-12-12T06:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50820205,
+        "Name": "304 FORTUNE TELLER",
+        "BroadcastDateTime": "2017-12-12T07:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 51106813,
+        "Name": "308 ANNIE OAKLEY",
+        "BroadcastDateTime": "2017-12-18T06:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 51106814,
+        "Name": "309 JENNIE",
+        "BroadcastDateTime": "2017-12-18T07:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 51112957,
+        "Name": "310 THE DEADLY CIRCLE",
+        "BroadcastDateTime": "2017-12-19T06:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 51112958,
+        "Name": "311 WHERE HAVE ALL THE CHILDREN GONE",
+        "BroadcastDateTime": "2017-12-19T07:00:00",
+        "Duration": "01:00:00"
+      }
+    ]
+  },
+  {
+    "ID": 424964,
+    "Name": "INCREDIBLE HULK, THE",
+    "Platform": "CABLE",
+    "Channel": "EL REY",
+    "Telecasts": [
+      {
+        "ID": 50517045,
+        "Name": "406 BRING ME THE HEAD OF THE HULK",
+        "BroadcastDateTime": "2017-12-04T08:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50523308,
+        "Name": "409 KING OF THE BEACH",
+        "BroadcastDateTime": "2017-12-05T08:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50814029,
+        "Name": "501 THE PHENOM",
+        "BroadcastDateTime": "2017-12-11T08:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 50820208,
+        "Name": "503 VETERAN",
+        "BroadcastDateTime": "2017-12-12T08:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 51106818,
+        "Name": "104 THE BEAST WITHIN",
+        "BroadcastDateTime": "2017-12-18T08:00:00",
+        "Duration": "01:00:00"
+      },
+      {
+        "ID": 51112961,
+        "Name": "106 TERROR IN TIMES SQUARE",
+        "BroadcastDateTime": "2017-12-19T08:00:00",
+        "Duration": "01:00:00"
+      }
+    ]
+  }
+]
+}
