@@ -1,128 +1,74 @@
 {
-  "tv": [
-  {
-    "ID": 401824,
-    "Name": "AIRWOLF",
-    "Platform": "CABLE",
-    "Channel": "EL REY",
-    "Telecasts": [
+  "tev": {
+   "content":[
+    {
+    "id": 401824,
+    "name": "AIRWOLF",
+    "platform": "CABLE",
+    "channel": "EL REY",
+    "telecasts": [
       {
-        "ID": 50517041,
-        "Name": "217 NATURAL BORN",
-        "BroadcastDateTime": "2017-12-04T06:00:00",
-        "Duration": "01:00:00"
+        "id": 50517041,
+        "name": "217 NATURAL BORN",
+        "broadcastDateTime": "2017-12-04T06:00:00",
+        "duration": "01:00:00"
       },
       {
-        "ID": 50517042,
-        "Name": "218 OUT OF THE SKY",
-        "BroadcastDateTime": "2017-12-04T07:00:00",
-        "Duration": "01:00:00"
+        "id": 51112957,
+        "name": "310 THE DEADLY CIRCLE",
+        "broadcastDateTime": "2017-12-19T06:00:00",
+        "duration": "01:00:00"
       },
       {
-        "ID": 50523304,
-        "Name": "219 DAMBREAKERS",
-        "BroadcastDateTime": "2017-12-05T06:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 50523305,
-        "Name": "220 SEVERANCE PAY",
-        "BroadcastDateTime": "2017-12-05T07:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 50814025,
-        "Name": "301 THE HORN OF PLENTY",
-        "BroadcastDateTime": "2017-12-11T06:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 50814026,
-        "Name": "302 AIRWOLF II",
-        "BroadcastDateTime": "2017-12-11T07:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 50820204,
-        "Name": "303 AND A CHILD SHALL LEAD",
-        "BroadcastDateTime": "2017-12-12T06:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 50820205,
-        "Name": "304 FORTUNE TELLER",
-        "BroadcastDateTime": "2017-12-12T07:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 51106813,
-        "Name": "308 ANNIE OAKLEY",
-        "BroadcastDateTime": "2017-12-18T06:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 51106814,
-        "Name": "309 JENNIE",
-        "BroadcastDateTime": "2017-12-18T07:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 51112957,
-        "Name": "310 THE DEADLY CIRCLE",
-        "BroadcastDateTime": "2017-12-19T06:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 51112958,
-        "Name": "311 WHERE HAVE ALL THE CHILDREN GONE",
-        "BroadcastDateTime": "2017-12-19T07:00:00",
-        "Duration": "01:00:00"
+        "id": 51112958,
+        "name": "311 WHERE HAVE ALL THE CHILDREN GONE",
+        "broadcastDateTime": "2017-12-19T07:00:00",
+        "duration": "01:00:00"
       }
     ]
   },
   {
-    "ID": 424964,
-    "Name": "INCREDIBLE HULK, THE",
-    "Platform": "CABLE",
-    "Channel": "EL REY",
-    "Telecasts": [
+    "id": 424964,
+    "name": "INCREDIBLE HULK, THE",
+    "platform": "CABLE",
+    "channel": "EL REY",
+    "telecasts": [
       {
-        "ID": 50517045,
-        "Name": "406 BRING ME THE HEAD OF THE HULK",
-        "BroadcastDateTime": "2017-12-04T08:00:00",
-        "Duration": "01:00:00"
+        "id": 50517045,
+        "name": "406 BRING ME THE HEAD OF THE HULK",
+        "broadcastDateTime": "2017-12-04T08:00:00",
+        "duration": "01:00:00"
       },
       {
-        "ID": 50523308,
-        "Name": "409 KING OF THE BEACH",
-        "BroadcastDateTime": "2017-12-05T08:00:00",
-        "Duration": "01:00:00"
+        "id": 50523308,
+        "name": "409 KING OF THE BEACH",
+        "broadcastDateTime": "2017-12-05T08:00:00",
+        "duration": "01:00:00"
       },
       {
-        "ID": 50814029,
-        "Name": "501 THE PHENOM",
-        "BroadcastDateTime": "2017-12-11T08:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 50820208,
-        "Name": "503 VETERAN",
-        "BroadcastDateTime": "2017-12-12T08:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 51106818,
-        "Name": "104 THE BEAST WITHIN",
-        "BroadcastDateTime": "2017-12-18T08:00:00",
-        "Duration": "01:00:00"
-      },
-      {
-        "ID": 51112961,
-        "Name": "106 TERROR IN TIMES SQUARE",
-        "BroadcastDateTime": "2017-12-19T08:00:00",
-        "Duration": "01:00:00"
+        "id": 51112961,
+        "name": "106 TERROR IN TIMES SQUARE",
+        "broadcastDateTime": "2017-12-19T08:00:00",
+        "duration": "01:00:00"
       }
     ]
-  }
-]
+  }],
+   "totalElements":114,
+   "totalPages":6,
+   "last":false,
+   "numberOfElements":20,
+   "first":true,
+   "sort":[
+      {
+         "direction":"DESC",
+         "property":"lastModifiedDate",
+         "ignoreCase":false,
+         "nullHandling":"NATIVE",
+         "ascending":false,
+         "descending":true
+      }
+   ],
+   "size":20,
+   "number":0
+}
 }
