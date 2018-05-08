@@ -1,5 +1,5 @@
 {
-   "trin":{
+   "vegan":{
       "content":[
          {
             "id":1,
@@ -30,7 +30,7 @@
             ]
          }
       ],
-      "totalElements":114,
+      "totalElements":2,
       "totalPages":6,
       "last":false,
       "numberOfElements":20,
