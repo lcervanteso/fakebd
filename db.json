@@ -1,33 +1,27 @@
 {
-   "vegan":{
+   "segments":{
       "content":[
          {
-            "id":1,
-            "name":"uno",
-            "platform":"CABLE",
-            "channel":"EL REY",
-            "telecasts":[
-               {
-                  "id":12,
-                  "name":"217 NATURAL BORN",
-                  "broadcastDateTime":"2017-12-04T06:00:00",
-                  "duration":"01:00:00"
-               }
-            ]
-         },
-         {
-            "id":2,
-            "name":"dos",
-            "platform":"CABLE",
-            "channel":"EL REY",
-            "telecasts":[
-               {
-                  "id":22,
-                  "name":"217 NATURAL BORN",
-                  "broadcastDateTime":"2017-12-04T06:00:00",
-                  "duration":"01:00:00"
-               }
-            ]
+         "id":1,
+         "name":"uno"
+         },{
+         "id":2,
+         "name":"dos"
+         },{
+         "id":3,
+         "name":"tres"
+         },{
+         "id":4,
+         "name":"cuatro"
+         },{
+         "id":5,
+         "name":"cinco"
+         },{
+         "id":6,
+         "name":"seis"
+         },{
+         "id":7,
+         "name":"siete"
          }
       ],
       "totalElements":2,
