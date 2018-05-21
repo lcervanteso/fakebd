@@ -41,5 +41,26 @@
       ],
       "size":20,
       "number":0
+   },
+   "emptySegments":{
+      "content":[
+      ],
+      "totalElements":0,
+      "totalPages":0,
+      "last":false,
+      "numberOfElements":0,
+      "first":true,
+      "sort":[
+         {
+            "direction":"DESC",
+            "property":"lastModifiedDate",
+            "ignoreCase":false,
+            "nullHandling":"NATIVE",
+            "ascending":false,
+            "descending":true
+         }
+      ],
+      "size":0,
+      "number":0
    }
 }
